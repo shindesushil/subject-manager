@@ -1,0 +1,19 @@
+export const ADD_SUBJECT = 'ADD_SUBJECT'
+export const REMOVE_SUBJECT = 'REMOVE_SUBJECT'
+export const UPDATE_SUBJECT = 'UPDATE_SUBJECT'
+export const ADD_TOPIC = 'ADD_TOPIC'
+export const REMOVE_TOPIC = 'REMOVE_TOPIC'
+export const UPDATE_TOPIC = 'UPDATE_TOPIC'
+export const ADD_NOTE = 'ADD_NOTE'
+export const REMOVE_NOTE = 'REMOVE_NOTE'
+export const UPDATE_NOTE = 'UPDATE_NOTE'
+export const FETCHING_DATA = 'FETCHING_DATA'
+export const FETCHED_DATA = 'FETCHED_DATA'
+export const FETCH_DATA_ERROR = 'FETCH_DATA_ERROR'
+
+
+// UI Actions
+export const SET_ACTIVE_SUBJECT = 'SET_ACTIVE_SUBJECT'
+export const SET_ACTIVE_TOPIC = 'SET_ACTIVE_TOPIC'
+export const OPERATION_GOING_ON = 'OPERATION_GOING_ON'
+export const OPERATION_DONE = 'OPERATION_DONE'

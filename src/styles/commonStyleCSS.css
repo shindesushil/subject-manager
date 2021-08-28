@@ -1,0 +1,6 @@
+.MuiButtonBase-root.addBtn{
+    position: absolute;
+    box-shadow: 0px 0px 4px #fff;
+    right: 10px;
+    color: #fff;
+}
